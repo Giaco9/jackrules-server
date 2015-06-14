@@ -1,0 +1,17 @@
+pids/**
+logs/**
+.git/**
+public/phone/templates/*
+public/monitor/templates/*
+
+public/**
+phone/**
+monitor/**
+views/**
+
+*.css
+*.scss
+.sass-cache/**
+*.less
+*.coffee
+*.jade
